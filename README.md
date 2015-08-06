@@ -1,5 +1,5 @@
 # Description
-A collection of different algorithms for educational purposes.
+A collection of sorting and searching algorithms for educational purposes.
 
 # Search Algorithms
 - [x] Sequential Search
